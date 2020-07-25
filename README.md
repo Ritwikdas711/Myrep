@@ -1,1 +1,1 @@
-# Myrep
+# The RGB color exercise
